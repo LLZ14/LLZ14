@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LLZ14/LLZ14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-这里是LLZ,大学生在读,学NETWORK和后端的死路一条（不是），快跑！！！！！
-一个废物，只会产出垃圾。
+这里是LLZ,大学生在读,学NETWORK和后端，啥也不会……
 
 
 - 我的编程习惯：
@@ -35,11 +32,11 @@ Here are some ideas to get you started:
 
 - 社交账号
 
-  -  [![QQ](https://img.shields.io/badge/QQ-2878225944-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)](https://wpa.qq.com/msgrd?v=3&uin=1242550160&site=qq&menu=yes) 
+  -  [![QQ](https://img.shields.io/badge/QQ-2878225944-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)](https://wpa.qq.com/msgrd?v=3&uin=1878225944&site=qq&menu=yes) 
   -  [![bilibili](https://img.shields.io/badge/bilibili-子Li-lightgrey?style=flat-square&logo=bilibili&logoColor=white&labelColor=00A1D6)](https://space.bilibili.com/295592609)
 
 
-美味しいは嬉しいです！
+在你眼中我是谁！
  Last Updated on 12/03/2023 01:50:01 UTC
 <!--END_SECTION:waka-->
 
