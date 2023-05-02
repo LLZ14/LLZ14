@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 - 社交账号
 
-  -  [![QQ](https://img.shields.io/badge/QQ-2878225944-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)](https://wpa.qq.com/msgrd?v=3&uin=1878225944&site=qq&menu=yes) 
-  -  [![bilibili](https://img.shields.io/badge/bilibili-子Li-lightgrey?style=flat-square&logo=bilibili&logoColor=white&labelColor=00A1D6)](https://space.bilibili.com/295592609)
+  -  [![QQ](https://img.shields.io/badge/QQ-2878225944-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)](https://wpa.qq.com/msgrd?v=3&uin=2878225944&site=qq&menu=yes) 
+  -  [![bilibili](https://img.shields.io/badge/bilibili-子Li-lightgrey?style=flat-square&logo=bilibili&logoColor=white&labelColor=00A1D6)](https://space.bilibili.com/385406820)
 
 
 在你眼中我是谁！
