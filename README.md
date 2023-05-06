@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 
 在你眼中我是谁！
- Last Updated on 12/03/2023 01:50:01 UTC
+ Last Updated on 12/04/2023 01:50:01 UTC
 <!--END_SECTION:waka-->
 
-[![LLZ14's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLZ14&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=LLZ14)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLZ14&show_icons=true&theme=cobalt)
