@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-这里是LLZ,大学生在读,学NETWORK和后端，啥也不会……
+~~这里是LLZ,大学生在读,学NETWORK和后端，啥也不会……~~
+目标为全栈的后端人员
 
 
 - 我的编程习惯：
